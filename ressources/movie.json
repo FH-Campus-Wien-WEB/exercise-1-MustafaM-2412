@@ -1,0 +1,54 @@
+[
+  {
+    "Title": "Mein Nachbar Totoro",
+    "Released": "1988-04-16",
+    "Runtime": 86,
+    "Genres": ["Animation", "Family", "Fantasy"],
+    "Directors": ["Hayao Miyazaki"],
+    "Writers": ["Hayao Miyazaki"],
+    "Actors": ["Hitoshi Takagi", "Noriko Hidaka", "Chika Sakamoto"],
+    "Plot": "Zwei junge Schwestern ziehen aufs Land, um in der Nähe ihrer im Krankenhaus liegenden Mutter zu sein, und entdecken dort die freundlichen Waldgeister.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE1ODkzNmUtMjIyNy00ZjY3LTk0YTAtMDhiYTk4YzEzMjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Metascore": 86,
+    "imdbRating": 8.1
+  },
+  {
+    "Title": "Chihiros Reise ins Zauberland",
+    "Released": "2001-07-20",
+    "Runtime": 125,
+    "Genres": ["Animation", "Adventure", "Family"],
+    "Directors": ["Hayao Miyazaki"],
+    "Writers": ["Hayao Miyazaki"],
+    "Actors": ["Daveigh Chase", "Suzanne Pleshette", "Miyu Irino"],
+    "Plot": "Während des Umzugs ihrer Familie in die Vorstadt wandert ein mürrisches 10-jähriges Mädchen in eine Welt, die von Göttern, Hexen und Geistern regiert wird.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWJlMmQ0ZjktNTFiYy00YzQ5LTg5NGQtY2NjNjRjMTRhMDJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Metascore": 96,
+    "imdbRating": 8.6
+  },
+  {
+    "Title": "Prinzessin Mononoke",
+    "Released": "1997-07-12",
+    "Runtime": 134,
+    "Genres": ["Animation", "Action", "Adventure"],
+    "Directors": ["Hayao Miyazaki"],
+    "Writers": ["Hayao Miyazaki"],
+    "Actors": ["Yôji Matsuda", "Yuriko Ishida", "Yūko Tanaka"],
+    "Plot": "Auf der Suche nach einer Heilung für einen tödlichen Fluch gerät ein Prinz in einen Konflikt zwischen einer Hüttenstadt und den Waldgöttern.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Metascore": 76,
+    "imdbRating": 8.4
+  },
+  {
+    "Title": "Das wandelnde Schloss",
+    "Released": "2004-11-20",
+    "Runtime": 119,
+    "Genres": ["Animation", "Adventure", "Family"],
+    "Directors": ["Hayao Miyazaki"],
+    "Writers": ["Hayao Miyazaki", "Diana Wynne Jones"],
+    "Actors": ["Chieko Baishô", "Takuya Kimura", "Tatsuya Gashûin"],
+    "Plot": "Als eine unsichere junge Frau von einer eifersüchtigen Hexe in eine alte Frau verwandelt wird, ist ihre einzige Chance, den Bann zu brechen, ein selbstsüchtiger junger Zauberer.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3YWEyOWEtYmM4MC00ZGE1LTljMDEtODM3NDg1ODQyYjU1XkEyXkFqcGc@._V1_.jpg",
+    "Metascore": 82,
+    "imdbRating": 8.2
+  }
+]
