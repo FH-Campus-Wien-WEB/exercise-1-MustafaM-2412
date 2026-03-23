@@ -10,8 +10,8 @@
         body {
             background-color: #fdfcf5;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: #4a4a4a; /* Kein hartes Schwarz, sondern ein dunkles Grau */
-            line-height: 1.6; /* Mehr Zeilenabstand für bessere Lesbarkeit */
+            color: #4a4a4a;
+            line-height: 1.6;
             margin: 0;
             padding: 40px 20px;
             display: flex;
@@ -103,7 +103,7 @@
                 const bodyElement = document.querySelector("body")
                 if (xhr.status == 200) {
 		            /* Part 2: Build the HTML elements here and append them to the body */
-                    // JSON-String in JavaScript-Objekte umwandeln
+                    // JSON-String in JSON umwandeln
                     const movies = JSON.parse(xhr.responseText);
 
                     // Loop durch Movie-Array
