@@ -1,0 +1,83 @@
+body {
+    background-color: #fdfcf5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4a4a4a;
+    line-height: 1.6;
+    margin: 0;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movie-item {
+    background-color: #e0f2f1;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 40px;
+    width: 100%;
+    max-width: 800px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    display: flex;
+    gap: 30px;
+    overflow: hidden;
+    transition: transform 0.5s ease;
+}
+
+.movie-item:hover {
+    transform: translateY(-5px);
+}
+
+.movie-item img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 3px 5px 15px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    align-self: flex-start;
+}
+
+.movie-text-container {
+    flex-grow: 1;
+}
+
+.movie-item h2 {
+    margin-top: 0;
+    color: #2c3e50;
+    font-size: 1.8rem;
+    font-weight: 600;
+    border-bottom: 2px solid #b2dfdb;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.movie-item p {
+    margin: 8px 0;
+    font-size: 0.95rem;
+}
+
+.movie-item strong {
+    color: #546e7a;
+    font-weight: 600;
+}
+
+.plot {
+    background-color: #f1f8e9;
+    padding: 15px;
+    border-radius: 8px;
+    font-style: italic;
+    margin: 15px 0;
+    border-left: 4px solid #aed581;
+}
+
+.movie-item aside {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #b2dfdb;
+    display: flex;
+    gap: 20px;
+}
+
+hr {
+    display: none;
+}
